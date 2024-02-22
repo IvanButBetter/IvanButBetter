@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi
 
+I am a current high school student, hoping to major in computer science when I graduate. Currently learning CS50.
+
+I am interested in software engineering and cybersecurity.
+
+Learning: JS, Python, C, HTML, CSS
+
+I also like movies, music, and video games
 <!--
 **IvanButBetter/IvanButBetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
